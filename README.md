@@ -1,13 +1,6 @@
 # 👋 Hey, I'm Aaron!
 
 🎓 **Computational Science Student** @ University of Potsdam with a background in Geosciences.  
-💻 **Developing software for seismological data** – Passionate about Research Software Engineering & Data Visualization.  
-🚀 **Future Goals:** Exploring Visual Computing & Computer Vision after my Bachelor's.  
-
-## 🌍 Projects & Interests
-- 📊 Data visualization & communicating scientific insights  
-- 🌎 Seismological data analysis & research software engineering  
-- 🎯 Expanding my skills in Visual Computing & Computer Vision in the near future  
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
